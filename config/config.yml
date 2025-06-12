@@ -1,0 +1,5 @@
+app:
+  name: "BlogApp"
+server:
+  host: "localhost"
+  port: "7080"
